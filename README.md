@@ -1,2 +1,2 @@
-# GCSO
-this is a project i made for projects, it suks im bad at coding dont judge me pls.
+# p5.play-boilerplate
+Boiler plate for p5.play
